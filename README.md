@@ -4,7 +4,7 @@
 
 ## About Me 🚀
 
-I'm a passionate **[MERN Stack Develper/ Developer Role]** with experience in **[Node JS, Express JS, React Js, Next JS, Mongodb, Postgresql, GraphQl, AWS]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I'm a passionate **[MERN Stack Develper]** with experience in **[Node JS, Express JS, React Js, Next JS, Mongodb, Postgresql, GraphQl, AWS]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
 - 🌱 Currently learning: **[AWS]**
 - 🔭 Working on: **[Exploreden]**
@@ -28,18 +28,17 @@ I'm a passionate **[MERN Stack Develper/ Developer Role]** with experience in **
 
 ## Featured Projects 💻
 
-### [Project 1 Title](project_1_link)
+### [Blog web Application](www.tharumuseum.org)
 
 ![Project 1 Screenshot](project_1_screenshot_url)
 
-**[Project 1 Title]** is a **[brief project description]** built with **[technologies used]**. This project demonstrates my ability to **[skills demonstrated by the project]**. You can check out the repository [here](project_1_repository_link).
+**[Blog Web application]** is a **[web app of Tharu Cultural Museum and Research Center]** built with **[Next js, Mongodb, Better Auth for the authentication system, aws cloud services]**. This project demonstrates my ability to **[manage role based access control, manage authentication and building dashboard for managing content, ci/cd pipeling, github actions, ]**. You can check out the web application [here](www.tharumuseum.org).
 
-### [Project 2 Title](project_2_link)
+### [Inventory Management System](project_2_link)
 
 ![Project 2 Screenshot](project_2_screenshot_url)
 
-**[Project 2 Title]** is a **[brief project description]** built with **[technologies used]**. This project showcases my skills in **[skills demonstrated by the project]**. You can check out the repository [here](project_2_repository_link).
-
+**[Inventory Management System]** is a **[ managing the Inventories in the company ]** built with **[node js, express js, better auth for the authentication, next js for the frontend side, framer motion for the animation, tailwindcss for the styling and shadcn ui to build faster ui and better user experience and mongodb for the database, aws cloud, ci/cd pipeline, github actions, ]**. This project showcases my skills in **[Mern Stack Development]**. 
 ## Get in Touch 📬
 
 - **[Personal Website / Blog]**(www.ramesh-mahato.com.np)
