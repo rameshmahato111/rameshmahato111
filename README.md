@@ -19,6 +19,10 @@ I'm a passionate **[MERN Stack Develper/ Developer Role]** with experience in **
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-JavaScript-336699?style=flat-square&logo=typescript&logoColor=white)
+
+
 
 *Replace the above skill badges with your own skills and expertise. To create more badges, use [checkout this repo](https://github.com/alexandresanlim/Badges4-README.md-Profile).*
 
@@ -38,8 +42,8 @@ I'm a passionate **[MERN Stack Develper/ Developer Role]** with experience in **
 
 ## Get in Touch 📬
 
-- **[Personal Website / Blog]**(your_website_or_blog_link)
-- **[LinkedIn]**(your_linkedin_profile_link)
-- **[Twitter]**(your_twitter_profile_link)
+- **[Personal Website / Blog]**(ramesh-mahato.com.np)
+- **[LinkedIn]**(www.linkedin.com/in/rameshmahato)
+- **[Twitter]**(https://x.com/rameshmahato27)
 
 
