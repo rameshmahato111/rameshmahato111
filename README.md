@@ -1,16 +1,16 @@
-# Hi there, I'm [Ramesh Mahato]! 👋
+# Hi there, I'm Ramesh Mahato! 👋
 
 ![Banner Image](https://res.cloudinary.com/dzjynodf5/image/upload/v1747725233/ramesh-mahato_lnaevp.png)
 
 ## About Me 🚀
 
-I'm a passionate **[MERN Stack Develper]** with experience in **[Node JS, Express JS, React Js, Next JS, Mongodb, Postgresql, GraphQl, AWS]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I'm a passionate **MERN Stack Develper** with experience in **Node JS, Express JS, React Js, Next JS, Mongodb, Postgresql, GraphQl, AWS**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
-- 🌱 Currently learning: **[AWS]**
-- 🔭 Working on: **[Exploreden]**
-- 🌍 Languages: **[Python, Javascript, Typescript, Golang]**
-- 📫 How to reach me: **[www.ramesh-mahato.com.np**
-- ⚡ Fun fact: **[Food lover]**
+- 🌱 Currently learning: **AWS**
+- 🔭 Working on: **Exploreden**
+- 🌍 Languages: **Python, Javascript, Typescript, Golang**
+- 📫 How to reach me: **www.ramesh-mahato.com.np**
+- ⚡ Fun fact: **Food lover**
 
 ## My Skills 🧠
 
