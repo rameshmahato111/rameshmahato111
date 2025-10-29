@@ -7,7 +7,7 @@
 I'm a passionate **MERN Stack Develper** with experience in **Node JS, Express JS, React Js, Next JS, Mongodb, Postgresql, GraphQl, AWS**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
 - 🌱 Currently learning: **AWS**
-- 🔭 Working on: **Exploreden**
+- 🔭 Working on: **Personal Portfolio**
 - 🌍 Languages: **Python, Javascript, Typescript, Golang**
 - 📫 How to reach me: **www.ramesh-mahato.com.np**
 - ⚡ Fun fact: **Food lover**
